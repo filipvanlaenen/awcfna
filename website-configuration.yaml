@@ -1,5 +1,22 @@
 ---
 areaConfigurations:
+- areaCode: "ag"
+  elections:
+    national:
+      dates:
+        13: "2004-03-23"
+        14: "2009-03-12"
+        15: "2014-06-12"
+        16: "2018-03-21"
+        17: "2023-01-18"
+        18: "≤2028-01"
+  translations:
+    de: "Antigua und Barbuda"
+    en: "Antigua and Barbuda"
+    eo: "Antigvo kaj Barbudo"
+    fr: "Antigua-et-Barbuda"
+    nl: "Antigua en Barbuda"
+    no: "Antigua og Barbuda"
 - areaCode: "gt"
   elections:
     national:
