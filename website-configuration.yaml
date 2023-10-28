@@ -59,3 +59,22 @@ areaConfigurations:
     fr: "Guatemala"
     nl: "Guatemala"
     no: "Guatemala"
+- areaCode: "sx"
+  elections:
+    national:
+      dates:
+        14: "2003-05-23"
+        15: "2007-04-20"
+        16: "2010-09-17"
+        17: "2014-08-29"
+        18: "2016-09-26"
+        19: "2018-02-26"
+        20: "2020-01-09"
+        21: "2024-01-11"
+  translations:
+    de: "Sint Maarten"
+    en: "Sint Maarten"
+    eo: "Sint-Maarten"
+    fr: "Saint-Martin"
+    nl: "Sint Maarten"
+    no: "Sint Maarten"
