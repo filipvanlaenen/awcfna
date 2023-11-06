@@ -59,6 +59,33 @@ areaConfigurations:
     fr: "Guatemala"
     nl: "Guatemala"
     no: "Guatemala"
+- areaCode: "sv"
+  elections:
+    national:
+      dates:
+        28: "2000-03-12"
+        29: "2003-03-16"
+        30: "2006-03-12"
+        31: "2009-01-18"
+        32: "2012-03-11"
+        33: "2015-03-01"
+        34: "2018-03-04"
+        35: "2021-02-28"
+        36: "2024-02-04"
+    presidential:
+      dates:
+        42: "2004-03-21"
+        43: "2009-03-15"
+        44: "2014-02-02+2013-03-03"
+        45: "2019-02-03"
+        46: "2024-02-04"
+  translations:
+    de: "El Salvador"
+    en: "El Salvador"
+    eo: "Salvadoro"
+    fr: "Salvador"
+    nl: "El Salvador"
+    no: "El Salvador"
 - areaCode: "sx"
   elections:
     national:
