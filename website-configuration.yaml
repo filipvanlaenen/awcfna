@@ -60,6 +60,21 @@ areaConfigurations:
     nl: "Guatemala"
     no: "Guatemala"
 - areaCode: "sv"
+  csvConfiguration:
+    electoralListIds:
+    - "SV001"
+    - "SV002"
+    - "SV003"
+    - "SV004"
+    - "SV005"
+    - "SV006"
+    - "SV007"
+    - "SV008"
+    - "SV009"
+    - "SV010"
+    - "SV011"
+    - "SV012"
+    - "SV013"
   elections:
     national:
       dates:
