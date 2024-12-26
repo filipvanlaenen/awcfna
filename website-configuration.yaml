@@ -79,6 +79,24 @@ areaConfigurations:
     fr: "Guatemala"
     nl: "Guatemala"
     no: "Guatemala"
+- areaCode: "ky"
+  elections:
+    national:
+      dates:
+        20: "2000-11-08"
+        21: "2005-05-11"
+        22: "2009-05-20"
+        23: "2013-05-22"
+        24: "2017-05-24"
+        25: "2021-04-14"
+        26: "2025-04-30"
+  translations:
+    de: "Kaimaninseln"
+    en: "Cayman Islands"
+    eo: "Kajmana Insularo"
+    fr: "Îles Caïmans"
+    nl: "Kaaimaneilanden"
+    no: "Caymanøyene"
 - areaCode: "sv"
   csvConfiguration:
     electoralListIds:
