@@ -34,6 +34,24 @@ areaConfigurations:
     fr: "Anguilla"
     nl: "Anguilla"
     no: "Anguilla"
+- areaCode: "cw"
+  elections:
+    national:
+      dates:
+        1: "2010-08-27"
+        2: "2012-10-19"
+        3: "2016-10-05"
+        4: "2017-04-28"
+        5: "2021-03-19"
+        6: "2025-03-21"
+        26: "≤2025-03"
+  translations:
+    de: "Curaçao"
+    en: "Curaçao"
+    eo: "Kuracao"
+    fr: "Curaçao"
+    nl: "Curaçao"
+    no: "Curaçao"
 - areaCode: "gt"
   elections:
     national:
