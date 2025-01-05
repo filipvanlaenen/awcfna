@@ -1,4 +1,6 @@
 ---
+id: AWCFNA
+name: North America
 areaConfigurations:
 - areaCode: "ag"
   elections:
