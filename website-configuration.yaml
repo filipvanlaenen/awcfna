@@ -36,6 +36,23 @@ areaConfigurations:
     fr: "Anguilla"
     nl: "Anguilla"
     no: "Anguilla"
+- areaCode: "bm"
+  elections:
+    national:
+      dates:
+        16: "2003-07-24"
+        17: "2007-12-18"
+        18: "2012-12-17"
+        19: "2017-07-18"
+        20: "2020-10-01"
+        21: "2025-02-18"
+  translations:
+    de: "Bermuda"
+    en: "Bermuda"
+    eo: "Bermudo"
+    fr: "Bermudes"
+    nl: "Bermuda"
+    no: "Bermuda"
 - areaCode: "cw"
   elections:
     national:
