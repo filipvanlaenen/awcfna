@@ -150,19 +150,19 @@ areaConfigurations:
 - areaCode: "sv"
   csvConfiguration:
     electoralListIds:
-    - "SV001"
-    - "SV002"
-    - "SV003"
-    - "SV004"
-    - "SV005"
-    - "SV006"
-    - "SV007"
-    - "SV008"
-    - "SV009"
-    - "SV010"
-    - "SV011"
-    - "SV012"
-    - "SV013"
+    - "SV201701"
+    - "SV198101"
+    - "SV201001"
+    - "SV198001"
+    - "SV196101"
+    - "SV200501"
+    - "SV196001"
+    - "SV201702"
+    - "SV201901"
+    - "SV202201"
+    - "SV202101"
+    - "SV198501"
+    - "SV201301"
   elections:
     national:
       dates:
