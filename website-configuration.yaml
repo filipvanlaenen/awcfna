@@ -55,6 +55,26 @@ areaConfigurations:
     fr: "Bermudes"
     nl: "Bermuda"
     no: "Bermuda"
+- areaCode: "ca"
+  elections:
+    national:
+      dates:
+        37: "2000-11-27"
+        38: "2004-06-28"
+        39: "2006-01-23"
+        40: "2008-10-14"
+        41: "2011-05-02"
+        42: "2015-10-19"
+        43: "2019-10-21"
+        44: "2021-09-20"
+        45: "2025-04-28"
+  translations:
+    de: "Kanada"
+    en: "Canada"
+    eo: "Kanado"
+    fr: "Canada"
+    nl: "Canada"
+    no: "Canada"
 - areaCode: "cw"
   elections:
     national:
