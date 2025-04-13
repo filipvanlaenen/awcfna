@@ -250,6 +250,25 @@ areaConfigurations:
     fr: "Îles Turques-et-Caïques"
     nl: "Turks- en Caicoseilanden"
     no: "Turks- og Caicosøyene"
+- areaCode: "tt"
+  elections:
+    national:
+      dates:
+        16: "2000-12-11"
+        17: "2001-12-10"
+        18: "2002-10-07"
+        19: "2007-11-05"
+        20: "2010-05-24"
+        21: "2015-09-07"
+        22: "2020-08-10"
+        23: "2025-04-28"
+  translations:
+    de: "Trinidad und Tobago"
+    en: "Trinidad and Tobago"
+    eo: "Trinidado kaj Tobago"
+    fr: "Trinité-et-Tobago"
+    nl: "Trinidad en Tobago"
+    no: "Trinidad og Tobago"
 widgetsConfiguration:
   tableFontFamily: "Alegreya Sans,'Helvetica Neue',Helvetica,sans-serif"
   tableStylesheets:
