@@ -161,6 +161,7 @@ areaConfigurations:
         24: "2017-05-24"
         25: "2021-04-14"
         26: "2025-04-30"
+        27: "≤2029-04"
   translations:
     de: "Kaimaninseln"
     en: "Cayman Islands"
