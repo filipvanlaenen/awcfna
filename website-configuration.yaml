@@ -150,6 +150,31 @@ areaConfigurations:
     fr: "Guatemala"
     nl: "Guatemala"
     no: "Guatemala"
+- areaCode: "ht"
+  elections:
+    national:
+      dates:
+        53: "2000-05-21+2000-07-09"
+        54: "2006-02-07"
+        55: "2010-11-28"
+        56: "2015-08-09+2016-11-20"
+        57: "2025-11-15"
+    presidential:
+      dates:
+        7: "2000-11-26"
+        8: "2006-02-07"
+        9: "2010-11-10+2011-03-20"
+        10: "2015-10-25"
+        11: "2016-02-13+2016-02-14"
+        12: "2016-11-20"
+        13: "2025-11-15"
+  translations:
+    de: "Haiti"
+    en: "Haiti"
+    eo: "Haitio"
+    fr: "Haïti"
+    nl: "Haïti"
+    no: "Haiti"
 - areaCode: "ky"
   elections:
     national:
