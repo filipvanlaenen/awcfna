@@ -175,6 +175,23 @@ areaConfigurations:
     fr: "Haïti"
     nl: "Haïti"
     no: "Haiti"
+- areaCode: "jm"
+  elections:
+    national:
+      dates:
+        26: "2002-10-16"
+        27: "2007-09-03"
+        28: "2011-12-29"
+        29: "2016-02-25"
+        30: "2020-09-03"
+        31: "2025-09-03"
+  translations:
+    de: "Jamaika"
+    en: "Jamaica"
+    eo: "Jamajko"
+    fr: "Jamaïque"
+    nl: "Jamaica"
+    no: "Jamaica"
 - areaCode: "ky"
   elections:
     national:
