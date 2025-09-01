@@ -176,6 +176,10 @@ areaConfigurations:
     nl: "Haïti"
     no: "Haiti"
 - areaCode: "jm"
+  csvConfiguration:
+    electoralListIds:
+    - "JM194301"
+    - "JM193801"
   elections:
     national:
       dates:
