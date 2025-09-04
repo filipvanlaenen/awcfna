@@ -150,6 +150,33 @@ areaConfigurations:
     fr: "Guatemala"
     nl: "Guatemala"
     no: "Guatemala"
+- areaCode: "hn"
+  elections:
+    national:
+      dates:
+        35: "2001-11-25"
+        36: "2005-11-27"
+        37: "2009-11-29"
+        38: "2013-11-24"
+        39: "2017-11-26"
+        40: "2021-11-28"
+        41: "2025-11-30"
+    presidential:
+      dates:
+        32: "2001-11-25"
+        33: "2005-11-27"
+        34: "2009-11-29"
+        35: "2013-11-24"
+        36: "2017-11-26"
+        37: "2021-11-28"
+        38: "2025-11-30"
+  translations:
+    de: "Honduras"
+    en: "Honduras"
+    eo: "Honduro"
+    fr: "Honduras"
+    nl: "Honduras"
+    no: "Honduras"
 - areaCode: "ht"
   elections:
     national:
