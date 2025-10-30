@@ -346,6 +346,23 @@ areaConfigurations:
     fr: "Trinité-et-Tobago"
     nl: "Trinidad en Tobago"
     no: "Trinidad og Tobago"
+- areaCode: "vc"
+  elections:
+    national:
+      dates:
+        14: "2001-03-28"
+        15: "2005-12-07"
+        16: "2010-12-13"
+        17: "2015-12-09"
+        18: "2020-11-05"
+        19: "2025-11-27"
+  translations:
+    de: "St. Vincent und die Grenadinen"
+    en: "Saint Vincent and the Grenadines"
+    eo: "Sankta Vincento kaj la Grenadinoj"
+    fr: "Saint-Vincent-et-les-Grenadines"
+    nl: "Saint Vincent en de Grenadines"
+    no: "Saint Vincent og Grenadinene"
 widgetsConfiguration:
   tableFontFamily: "Alegreya Sans,'Helvetica Neue',Helvetica,sans-serif"
   tableStylesheets:
