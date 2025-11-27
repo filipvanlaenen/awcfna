@@ -77,6 +77,13 @@ areaConfigurations:
     nl: "Canada"
     no: "Canada"
 - areaCode: "cr"
+  csvConfiguration:
+    electoralListIds:
+    - "CR195101"
+    - "CR200001"
+    - "CR198301"
+    - "CR200501"
+    - "CR200401"
   elections:
     national:
       dates:
