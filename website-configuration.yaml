@@ -85,6 +85,9 @@ areaConfigurations:
     - "CR200501"
     - "CR200401"
     - "CR201801"
+    - "CR199601"
+    - "CR201401"
+    - "CR201201"
   elections:
     national:
       dates:
