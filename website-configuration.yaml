@@ -204,6 +204,7 @@ areaConfigurations:
         39: "2017-11-26"
         40: "2021-11-28"
         41: "2025-11-30"
+        42: "≤2029-11"
     presidential:
       dates:
         32: "2001-11-25"
@@ -213,6 +214,7 @@ areaConfigurations:
         36: "2017-11-26"
         37: "2021-11-28"
         38: "2025-11-30"
+        39: "≈2029-11"
   translations:
     de: "Honduras"
     en: "Honduras"
