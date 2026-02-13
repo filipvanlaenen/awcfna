@@ -37,6 +37,24 @@ areaConfigurations:
     fr: "Anguilla"
     nl: "Anguilla"
     no: "Anguilla"
+- areaCode: "bb"
+  elections:
+    national:
+      dates:
+        17: "2003-05-21"
+        18: "2008-01-15"
+        19: "2013-02-21"
+        20: "2018-05-24"
+        21: "2022-01-19"
+        22: "2026-02-11"
+        23: "≤2031-02"
+  translations:
+    de: "Barbados"
+    en: "Barbados"
+    eo: "Barbado"
+    fr: "Barbade"
+    nl: "Barbados"
+    no: "Barbados"
 - areaCode: "bm"
   elections:
     national:
