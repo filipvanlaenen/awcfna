@@ -38,6 +38,10 @@ areaConfigurations:
     nl: "Anguilla"
     no: "Anguilla"
 - areaCode: "bb"
+  csvConfiguration:
+    electoralListIds:
+    - "BB193801"
+    - "BB195501"
   elections:
     national:
       dates:
