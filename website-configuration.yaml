@@ -78,6 +78,13 @@ areaConfigurations:
     nl: "Bermuda"
     no: "Bermuda"
 - areaCode: "ca"
+  csvConfiguration:
+    electoralListIds:
+    - "CA186701"
+    - "CA194201"
+    - "CA193201"
+    - "CA193501"
+    - "CA194202"
   elections:
     national:
       dates:
