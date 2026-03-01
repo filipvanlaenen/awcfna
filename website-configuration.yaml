@@ -85,6 +85,7 @@ areaConfigurations:
     - "CA193201"
     - "CA193501"
     - "CA194202"
+    - "CA196101"
   elections:
     national:
       dates:
