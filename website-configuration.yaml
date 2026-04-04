@@ -90,6 +90,7 @@ areaConfigurations:
     - "CA199101"
     - "CA200001"
     - "CA198301"
+    - "CA200301"
   elections:
     national:
       dates:
