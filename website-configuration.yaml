@@ -3,6 +3,25 @@ id: AWCFNA
 name: North America
 areaConfigurations:
 - areaCode: "ag"
+  electedBodies:
+  - id: "hr"
+    electionDates:
+    - "1946 1951 1956 1960 1965 1971 1976 1980 1984 1989 1994 1999"
+    - "2004-03-23"
+    - "2009-03-12"
+    - "2014-06-12"
+    - "2018-03-21"
+    - "2023-01-18"
+    - "2026-04-30"
+    properNames:
+      aig: "Haas a Reeprizentatif dem"
+    translatedNames:
+      de: "Repräsentantenhaus"
+      en: "House of Representatives"
+      eo: "Ĉambro de Reprezentantoj"
+      fr: "Chambre des représentants"
+      nl: "Huis van Afgevaardigden"
+      no: "Representantenes hus"
   elections:
     national:
       dates:
@@ -11,7 +30,7 @@ areaConfigurations:
         15: "2014-06-12"
         16: "2018-03-21"
         17: "2023-01-18"
-        18: "≤2028-01"
+        18: "2026-04-30"
   translations:
     de: "Antigua und Barbuda"
     en: "Antigua and Barbuda"
