@@ -98,6 +98,38 @@ areaConfigurations:
     fr: "Bermudes"
     nl: "Bermuda"
     no: "Bermuda"
+- areaCode: "bs"
+  - id: "ha"
+    electionDates:
+    - "1967"
+    - "1968"
+    - "1972"
+    - "1977"
+    - "1982"
+    - "1987"
+    - "1992"
+    - "1997"
+    - "2002-05-02"
+    - "2007-05-02"
+    - "2012-05-07"
+    - "2017-05-10"
+    - "2021-09-16"
+    - "2026-05-12"
+    properNames:
+      en: "House of Assembly"
+    translatedNames:
+      de: "Versammlungshaus"
+      eo: "Asembleo"
+      fr: "Assemblée"
+      nl: "Vergadering"
+      no: "Forsamling"
+  translations:
+    de: "Bahamas"
+    en: "The Bahamas"
+    eo: "Bahamoj"
+    fr: "Bahamas"
+    nl: "Bahama’s"
+    no: "Bahamas"
 - areaCode: "ca"
   csvConfiguration:
     electoralListIds:
