@@ -99,6 +99,12 @@ areaConfigurations:
     nl: "Bermuda"
     no: "Bermuda"
 - areaCode: "bs"
+  csvConfiguration:
+    electoralListIds:
+    - "BS197101"
+    - "BS195301"
+    - "BS201101"
+  electedBodies:
   - id: "ha"
     electionDates:
     - "1967"
