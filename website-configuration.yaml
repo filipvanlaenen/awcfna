@@ -24,6 +24,7 @@ areaConfigurations:
     - "2018-03-21"
     - "2023-01-18"
     - "2026-04-30"
+    - "≤2031-04"
     properNames:
       aig: "Haas a Reeprizentatif dem"
     translatedNames:
@@ -150,6 +151,8 @@ areaConfigurations:
     - "CA200001"
     - "CA198301"
     - "CA200301"
+    - "CA201801"
+    - "CA186701+CA196101"
   elections:
     national:
       dates:
