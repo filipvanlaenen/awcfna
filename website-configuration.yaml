@@ -122,6 +122,7 @@ areaConfigurations:
     - "2017-05-10"
     - "2021-09-16"
     - "2026-05-12"
+    - "≤2031-05"
     properNames:
       en: "House of Assembly"
     translatedNames:
