@@ -238,6 +238,12 @@ areaConfigurations:
     nl: "Curaçao"
     no: "Curaçao"
 - areaCode: "gd"
+  csvConfiguration:
+    electoralListIds:
+    - "GD198401"
+    - "GD198701"
+    - "GD195001"
+    - "GD199501"
   electedBodies:
   - id: "hr"
     electionDates:
