@@ -237,6 +237,38 @@ areaConfigurations:
     fr: "Curaçao"
     nl: "Curaçao"
     no: "Curaçao"
+- areaCode: "gd"
+  electedBodies:
+  - id: "hr"
+    electionDates:
+    - "1967"
+    - "1972"
+    - "1976"
+    - "1984"
+    - "1990"
+    - "1995"
+    - "1999"
+    - "2003-11-27"
+    - "2008-07-08"
+    - "2013-02-19"
+    - "2018-03-13"
+    - "2022-06-23"
+    - "2026-11-05"
+    properNames:
+      en: "House of Representatives"
+    translatedNames:
+      de: "Repräsentantenhaus"
+      eo: "Ĉambro de Reprezentantoj"
+      fr: "Chambre des représentants"
+      nl: "Huis van Afgevaardigden"
+      no: "Representantenes hus"
+  translations:
+    de: "Grenada"
+    en: "Grenada"
+    eo: "Grenado"
+    fr: "Grenade"
+    nl: "Grenada"
+    no: "Grenada"
 - areaCode: "gl"
   csvConfiguration:
     electoralListIds:
