@@ -780,6 +780,7 @@ areaConfigurations:
     - "2022-11-08"
     - "2024-11-05"
     - "2026-11-03"
+    - "2028-11-07"
     properNames:
       en: "House of Representatives"
     translatedNames:
@@ -847,6 +848,7 @@ areaConfigurations:
     - "2022-11-08"
     - "2024-11-05"
     - "2026-11-03"
+    - "2028-11-07"
     properNames:
       en: "Senate"
     translatedNames:
