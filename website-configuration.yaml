@@ -260,6 +260,7 @@ areaConfigurations:
     - "2018-03-13"
     - "2022-06-23"
     - "2026-11-05"
+    - "≤2031-11"
     properNames:
       en: "House of Representatives"
     translatedNames:
